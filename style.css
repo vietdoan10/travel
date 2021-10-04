@@ -602,8 +602,12 @@ header .search-bar-container label:hover{
   border-top: .1rem solid rgba(255,255,255,.2);
 }
 
-.footer .credit span{
+.footer .credit a{
   color:var(--orange);
+}
+
+.footer .credit a:hover{
+  color: rgb(19, 206, 219);
 }
 
 
